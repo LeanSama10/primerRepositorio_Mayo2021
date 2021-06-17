@@ -1,1 +1,2 @@
 Archivo3
+Se corrige incidente2 - crítico
