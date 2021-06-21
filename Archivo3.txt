@@ -1,8 +1,8 @@
 Archivo3
-
 Se corrige incidente2 - crítico
 Agrego linea en el local
 Cambios de la tarea 1A
 Nueva Tarea1a linea
 Ultimas tareas del 1A
+Agrego una linea desde el repositorio local
 

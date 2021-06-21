@@ -1,7 +1,6 @@
 Linea inicial
 Agrego una segunda linea
 Agrego una linea después del add
-
 Se agrego otor archivo
 
 Agregado Tarea1A
@@ -9,3 +8,7 @@ Agregado Tarea1A
 Modificaciones TareaJ3
 Se agrego otor archivo
 proyecto2
+
+Se agrego otor archivo
+Agrego una linea desde el repositorio remoto
+
